@@ -20,7 +20,7 @@ A modern, lightweight desktop app built in **Python + Tkinter** that lets you ea
 ## 📦 Installation
 
 ### 🔹 Option 1: Run the EXE (Windows)
-1. Download the latest release from the [Releases page](https://github.com/Cayd135/YouTubeDownloader/releases).  
+1. Download the latest release from the [Releases page](https://github.com/Cayd135/Youtube-Youtube-Music-Downloader/releases).  
 2. Double-click `YouTubeDownloader.exe` to launch.  
 3. No setup or installation required — it’s 100% portable.
 
