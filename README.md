@@ -2,7 +2,6 @@
 
 A modern, lightweight desktop app built in **Python + Tkinter** that lets you easily download **YouTube videos** or **YouTube Music** in your preferred audio or video format.
 
-![App Screenshot](https://raw.githubusercontent.com/yourusername/YouTubeDownloader/main/screenshot.png)
 
 ---
 
