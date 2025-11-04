@@ -32,7 +32,7 @@ A modern, lightweight desktop app built in **Python + Tkinter** that lets you ea
 Make sure you have **Python 3.10+** installed.
 
 ```bash
-git clone https://github.com/yourusername/YouTubeDownloader.git
+git clone https://github.com/Cayd135/YouTubeDownloader.git
 cd YouTubeDownloader
 pip install -r requirements.txt
 python YouTubeDownloader.py
